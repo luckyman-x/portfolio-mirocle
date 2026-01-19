@@ -44,7 +44,7 @@ const TelegramIcon = ({
 const HeroSection = () => {
   const [text, setText] = useState('');
   const [showCursor, setShowCursor] = useState(true);
-  const fullText = 'Full Stack Web & App Engineer';
+  const fullText = 'Full Stack Web & App Developer';
 
   useEffect(() => {
     let i = 0;
