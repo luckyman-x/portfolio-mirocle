@@ -80,7 +80,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://t.me/YC0112_425_517"
+                href="https://t.me/Naoki68"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-cyan-600 text-gray-300 hover:text-white rounded-full transition-colors"
