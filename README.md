@@ -174,7 +174,7 @@ Feel free to fork this project and customize it for your own portfolio. If you c
 
 - **Email**: miroclejohn@gmail.com
 - **Whatsapp**: +1 (805) 821 1334
-- **Telegram**: +1 (623) 688 5001
+- **Telegram**: +1 (765) 859 9734
 
 ---
 
