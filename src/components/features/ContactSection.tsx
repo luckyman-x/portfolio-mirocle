@@ -199,7 +199,7 @@ const ContactSection = () => {
               </a>
 
               <a
-                href="https://t.me/YC0112_425_517"
+                href="https://t.me/Naoki68"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-cyan-500/50 transition-all duration-300"
@@ -211,7 +211,7 @@ const ContactSection = () => {
                   <div className="font-semibold text-white group-hover:text-cyan-400 transition-colors">
                     Telegram
                   </div>
-                  <div className="text-gray-400 text-sm">+1 623 688 5001</div>
+                  <div className="text-gray-400 text-sm">+1 765 859 9734</div>
                 </div>
               </a>
 
